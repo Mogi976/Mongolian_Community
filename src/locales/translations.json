@@ -1,0 +1,80 @@
+{
+  "mn": {
+    "translation": {
+      "title": "Монголчуудын холбоо",
+      "home": "Нүүр",
+      "menu1": "Цэс 1",
+      "menu2": "Цэс 2",
+      "search": "Хайх",
+      "location": "Байршил",
+      "enterLocation": "Байршлаа оруулна уу",
+      "close": "Хаах...",
+      "save": "Хадгалах",
+      "settings": "Тохиргоо",
+      "logout": "Гарах",
+      "login": "Нэвтрэх",
+      "selectLocation": "Байршлаа сонгоно уу",
+      "selectCountry": "Улсаа сонгоно уу",
+      "country": "Улс",
+      "state": "Хот/Муж",
+      "selectState": "Сонгоно уу...",
+      "services": "Үйлчилгээ",
+      "contact": "Холбоо барих",
+      "darkMode": "Харанхуй горим",
+      "lightMode": "Гэрэлтэй горим",
+      "addBusiness": "Мэдээлэл оруулах"
+    }
+  },
+  "en": {
+    "translation": {
+      "title": "Mongolian Community",
+      "home": "Home",
+      "menu1": "Menu 1",
+      "menu2": "Menu 2",
+      "search": "Search...",
+      "location": "Location",
+      "enterLocation": "Enter Location",
+      "close": "Close", 
+      "save": "Save",
+      "settings": "Settings",
+      "logout": "Logout",
+      "login": "Login",
+      "selectLocation": "Select location",
+      "selectCountry": "Select country",
+      "country": "Country",
+      "state": "State/City",
+      "selectState": "Select...",
+      "services": "Services",
+      "contact": "Contact",
+      "darkMode": "Dark mode",
+      "lightMode": "Light mode",
+      "addBusiness": "Add Business"
+    }
+  },
+  "cn": {
+    "translation": {
+      "title": "蒙古社区",
+      "home": "首页",
+      "menu1": "菜单 1",
+      "menu2": "菜单 2",
+      "search": "搜索...",
+      "location": "位置",
+      "enterLocation": "输入位置",
+      "close": "关闭",
+      "save": "保存",
+      "settings": "设置",
+      "logout": "登出",
+      "login": "登录",
+      "selectLocation": "选择位置",
+      "selectCountry": "选择国家",
+      "country": "国家",
+      "state": "州/城市",
+      "selectState": "选择...",
+      "services": "服务",
+      "contact": "联系",
+      "darkMode": "Dark mode",
+      "lightMode": "Light mode",
+      "addBusiness": "添加业务"
+    }
+  }
+}
